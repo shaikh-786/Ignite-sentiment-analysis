@@ -6,8 +6,6 @@ A sentiment analysis project using BERT to classify text as positive, negative, 
 
 ## Installation
 
-1. Clone the repository:
-
 ```bash
 git clone https://github.com/shaikh-786/sentiment-analysis.git
 cd sentiment-analysis
